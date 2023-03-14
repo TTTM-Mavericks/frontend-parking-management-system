@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "http-proxy-middleware": "^2.0.6",
     "materialize-css": "^1.0.0",
-    "react": "^18.2.0",
+    "react": "^17.0.2",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
